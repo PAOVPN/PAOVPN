@@ -1,8 +1,8 @@
 {
 //အပ္ဒိတ္အတြက္ ဗားရွင္း၊ အပ္ဒိတ္ရွိပါက၊ ယခင္ထက္ နံပါတ္မ်ား ပိုမိုေျပာင္းလဲရန္ လိုအပ္ပါသည္။
-"Version":"1.6",
+"Version":"1.7",
 //ဆာဗာ အပ္ဒိတ္
-"Url":"https://github.com/PAOVPN/PAOVPN/raw/refs/heads/main/Ready6.zip" ,
+"Url":"https://github.com/PAOVPN/PAOVPN/raw/refs/heads/main/Ready7.zip" ,
 "Changelog":"
 အပ္ဒိတ္အသစ္ေတြ႕ရွိသည္
 --------------+--------------
@@ -10,13 +10,8 @@
 • ထိုင္​းဖရီးနက္​န႔ဲျမန္​မာဖရီးနက္​
 • အသံုးျပဳႏိုင္​သည္​
 • အသုံးျပဳ့နိုင္ေသာ ဆင္း(မ္)​ကဒ္မ်ား
-•Myanmar All-Sim-wifi
-•Wifi
-•MYTEL
-•ATOM
-•MPT
-•OOREDOO
-•FREE NET အစံု တင္​​ေပးပါသည္​
+•Myanmar Mytel Sim
+•FREE NET All တင္​​ေပးပါသည္​
 • Quick connection
  
 •Ready vpnအသံုးျပဳ​ေသာ္​ မိတ္​​ေဆြ
